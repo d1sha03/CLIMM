@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+statsmodels
+yfinance
+requests
+matplotlib
+plotly
+scikit-learn
+jupyter
+arch
